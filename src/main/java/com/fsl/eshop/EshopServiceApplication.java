@@ -1,4 +1,4 @@
-package com.fsl.eshop.eshopservice;
+package com.fsl.eshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

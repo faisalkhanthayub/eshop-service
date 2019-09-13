@@ -1,4 +1,4 @@
-package com.fsl.eshop.eshopservice;
+package com.fsl.eshop;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
